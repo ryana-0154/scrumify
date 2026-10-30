@@ -1,0 +1,12 @@
+Summary,Issue key,Issue id,Issue Type,Status,Resolution,Assignee,Assignee Id,Created,Resolved,Sprint,Sprint,Custom field (Story Points)
+Add login rate limiter,FAKE-101,10101,Story,Done,Done,Avery Example,000000:aaaaaaaa-0000-4000-8000-000000000001,02/Sep/26 9:15 AM,11/Sep/26 4:02 PM,FAKE Sprint 18,,5
+"Export report as CSV, with ""totals"" row",FAKE-102,10102,Story,Done,Done,Blake Sample,000000:aaaaaaaa-0000-4000-8000-000000000002,03/Sep/26 10:40 AM,15/Sep/26 11:20 AM,FAKE Sprint 18,,3
+Migrate settings page to new layout,FAKE-103,10103,Story,Done,Done,Casey Placeholder,000000:aaaaaaaa-0000-4000-8000-000000000003,01/Sep/26 2:05 PM,23/Sep/26 3:45 PM,FAKE Sprint 18,FAKE Sprint 19,8
+Fix typo on onboarding screen,FAKE-104,10104,Bug,Done,Done,Avery Example,000000:aaaaaaaa-0000-4000-8000-000000000001,16/Sep/26 8:30 AM,17/Sep/26 9:10 AM,FAKE Sprint 19,,
+Update dependency versions,FAKE-105,10105,Task,Done,Done,,,15/Sep/26 1:00 PM,25/Sep/26 5:30 PM,FAKE Sprint 19,,2
+"Search returns stale results
+after reindex",FAKE-106,10106,Bug,Done,Done,Blake Sample,000000:aaaaaaaa-0000-4000-8000-000000000002,04/Sep/26 11:00 AM,02/Oct/26 2:15 PM,FAKE Sprint 18,FAKE Sprint 19,3
+Dark mode for dashboard,FAKE-107,10107,Story,Reopened,Done,Casey Placeholder,000000:aaaaaaaa-0000-4000-8000-000000000003,17/Sep/26 9:45 AM,29/Sep/26 10:05 AM,FAKE Sprint 19,FAKE Sprint 20,5
+Add audit log retention setting,FAKE-108,10108,Story,In Progress,,Drew Fictional,000000:aaaaaaaa-0000-4000-8000-000000000004,30/Sep/26 3:20 PM,,FAKE Sprint 20,,5
+Write capacity planning docs,FAKE-109,10109,Task,To Do,,,,01/Oct/26 10:00 AM,,FAKE Sprint 20,,1
+Hotfix: null pointer on empty sprint,FAKE-110,10110,Bug,Done,Done,Drew Fictional,000000:aaaaaaaa-0000-4000-8000-000000000004,20/Sep/26 4:50 PM,21/Sep/26 9:00 AM,,,2

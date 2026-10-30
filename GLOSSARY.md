@@ -16,6 +16,10 @@ _Avoid_: Issue, task, story
 The story points of tickets closed within a sprint, measured for the team and for each person. A closed ticket's points go to its assignee at import, and to team velocity only if unassigned.
 _Avoid_: Throughput, burn
 
+**Done Status**:
+A Jira status the team counts as finished, such as Done or Closed. A ticket is closed only when its status is a done status and its Resolved date falls within a sprint, because Jira keeps the Resolved date on reopened tickets.
+_Avoid_: Resolved status, closed state
+
 **Unplaced Ticket**:
 A ticket resolved on a date that falls in no known sprint, so it counts toward no velocity until a matching sprint exists.
 _Avoid_: Orphan, stray
